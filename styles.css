@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    text-align: -webkit-center;
+
+}
+.post {
+    border: 1px solid white;
+    height: 80vh;
+    width: 60vw;
+    margin-top: 3rem;
+
+}
+.post-header {
+    display: flex;
+    background-color: white;
+}
+.post-image {
+
+}
+.post-body {
+
+}
+.post-icons {
+    display: flex;
+}
+div {
+
+}
+p {
+
+}
