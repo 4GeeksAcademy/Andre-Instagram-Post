@@ -7,14 +7,13 @@ h3 {
     margin: 0;
 }
 .post {
-    width: 60vw;
+    width: 45vw;
     margin-top: 3rem;
 }
 .post-header {
     display: flex;
     background-color: white;
     align-items: center;
-    padding: 15px;
 }
 .icon-left {
     margin-left: 10px;
@@ -40,6 +39,9 @@ h3 {
   }
 .post-body {
     background-color: white;
+}
+i {
+    margin: 10px;
 }
 .post-icons {
     display: flex;
